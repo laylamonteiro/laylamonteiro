@@ -32,4 +32,4 @@
 - 💬 Ask me about cats and technology
 - 📫 How to reach me: laylamonteiro@outlook.com or [at my linkedin](https://www.linkedin.com/in/layla-monteiro/)
 - 👩 Pronouns: She/Her
-- ⚡ Fun fact: I've started 6 different college degrees but I've got 0 diplomas so far 🙂
+- ⚡ Fun fact: I've started 6 different college degrees but I've got 0 diplomas so far 😂
