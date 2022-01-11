@@ -21,7 +21,7 @@
   
   ##
  
-
+![Snake animation](https://github.com/laylamonteiro/laylamonteiro/blob/output/github-contribution-grid-snake.svg)
 
   ##
   
