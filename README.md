@@ -28,7 +28,7 @@
   ##
   
 - 🔭 I’m currently working on back-end projects
-- 🌱 I’m currently learning Java, .NET  and AWS
+- 🌱 I’m currently studying Java, .NET  and AWS
 - 💬 Ask me about cats and technology
 - 📫 How to reach me: laylamonteiro@outlook.com or [at my linkedin](https://www.linkedin.com/in/layla-monteiro/)
 - 👩 Pronouns: She/Her
